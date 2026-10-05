@@ -1,0 +1,53 @@
+provinsi,nama_kab_kota,jenis,kode_bps,kode_kemendagri,status_daftar,status_pemulihan_feb2026,kode_terverifikasi
+Aceh,Aceh Selatan,Kabupaten,1103,11.01,pasti,normal_atau_mendekati_normal,ya
+Aceh,Aceh Tenggara,Kabupaten,1104,11.02,pasti,normal_atau_mendekati_normal,ya
+Aceh,Aceh Timur,Kabupaten,1105,11.03,pasti,perlu_atensi_khusus,ya
+Aceh,Aceh Tengah,Kabupaten,1106,11.04,pasti,perlu_atensi_khusus,ya
+Aceh,Aceh Barat,Kabupaten,1107,11.05,pasti,normal_atau_mendekati_normal,ya
+Aceh,Aceh Besar,Kabupaten,1108,11.06,pasti,normal_atau_mendekati_normal,ya
+Aceh,Pidie,Kabupaten,1109,11.07,pasti,normal_atau_mendekati_normal,ya
+Aceh,Aceh Utara,Kabupaten,1111,11.08,pasti,perlu_atensi_khusus,ya
+Aceh,Aceh Singkil,Kabupaten,1102,11.10,pasti,normal_atau_mendekati_normal,ya
+Aceh,Bireuen,Kabupaten,1110,11.11,pasti,perlu_atensi_khusus,ya
+Aceh,Gayo Lues,Kabupaten,1113,11.13,pasti,perlu_atensi_khusus,ya
+Aceh,Nagan Raya,Kabupaten,1115,11.15,perlu_cek,normal_atau_mendekati_normal,ya
+Aceh,Aceh Tamiang,Kabupaten,1114,11.16,pasti,perlu_atensi_khusus,ya
+Aceh,Bener Meriah,Kabupaten,1117,11.17,pasti,normal_atau_mendekati_normal,ya
+Aceh,Pidie Jaya,Kabupaten,1118,11.18,pasti,perlu_atensi_khusus,ya
+Aceh,Lhokseumawe,Kota,1174,11.73,pasti,normal_atau_mendekati_normal,ya
+Aceh,Langsa,Kota,1173,11.74,pasti,normal_atau_mendekati_normal,ya
+Aceh,Subulussalam,Kota,1175,11.75,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Tapanuli Tengah,Kabupaten,1204,12.01,pasti,perlu_atensi_khusus,ya
+Sumatera Utara,Tapanuli Utara,Kabupaten,1205,12.02,pasti,perlu_atensi_khusus,ya
+Sumatera Utara,Tapanuli Selatan,Kabupaten,1203,12.03,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Nias,Kabupaten,1201,12.04,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Langkat,Kabupaten,1213,12.05,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Karo,Kabupaten,1211,12.06,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Deli Serdang,Kabupaten,1212,12.07,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Mandailing Natal,Kabupaten,1202,12.13,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Nias Selatan,Kabupaten,1214,12.14,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Pakpak Bharat,Kabupaten,1216,12.15,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Humbang Hasundutan,Kabupaten,1215,12.16,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Serdang Bedagai,Kabupaten,1218,12.18,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Batu Bara,Kabupaten,1219,12.19,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Medan,Kota,1275,12.71,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Sibolga,Kota,1271,12.73,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Binjai,Kota,1276,12.75,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Tebing Tinggi,Kota,1274,12.76,pasti,normal_atau_mendekati_normal,ya
+Sumatera Utara,Padangsidimpuan,Kota,1277,12.77,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Pesisir Selatan,Kabupaten,1302,13.01,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Solok,Kabupaten,1303,13.02,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Tanah Datar,Kabupaten,1305,13.04,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Padang Pariaman,Kabupaten,1306,13.05,pasti,perlu_atensi_khusus,ya
+Sumatera Barat,Agam,Kabupaten,1307,13.06,pasti,perlu_atensi_khusus,ya
+Sumatera Barat,Lima Puluh Kota,Kabupaten,1308,13.07,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Pasaman,Kabupaten,1309,13.08,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Kepulauan Mentawai,Kabupaten,1301,13.09,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Solok Selatan,Kabupaten,1310,13.11,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Pasaman Barat,Kabupaten,1312,13.12,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Padang,Kota,1371,13.71,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Solok,Kota,1372,13.72,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Padang Panjang,Kota,1374,13.74,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Bukittinggi,Kota,1375,13.75,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Payakumbuh,Kota,1376,13.76,pasti,normal_atau_mendekati_normal,ya
+Sumatera Barat,Pariaman,Kota,1377,13.77,pasti,normal_atau_mendekati_normal,ya
